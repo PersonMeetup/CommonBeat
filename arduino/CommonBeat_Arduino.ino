@@ -9,7 +9,7 @@ void setup() {
 
 void loop() {
 	Serial.print(digitalRead(PLR_L));
-  Serial.print('\t');
+	Serial.print('\t');
 	Serial.println(digitalRead(PLR_R));
 	delay(100);
 }
