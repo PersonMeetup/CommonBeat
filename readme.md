@@ -1,10 +1,12 @@
 # Common Beat
 
-*Common Beat* was an interactive artpiece created for the Univeristy of Lethbridge's Interaction Design course in the Spring 2023 semester. In it, two players drum to their own rhythms which get represented as vibrant pulses. As the players continue drumming, a central tempo begins to eminate from between the two pulses. Barely existing at first, the tempo grows to overpower the inputs of the players until they choose not to play along anymore. *Common Beat* serves as a personal reflection on how mediation is a form of control over others while still acknoledging its power to unite us together.
+*Common Beat* was an interactive artpiece created for the [Univeristy of Lethbridge's](https://www.ulethbridge.ca/) Interaction Design course in the Spring 2023 semester. In it, two players drum to their own rhythms which get represented as vibrant pulses. As the players continue drumming, a central tempo begins to eminate from between the two pulses. Barely existing at first, the tempo grows to overpower the inputs of the players until they choose not to play along anymore. *Common Beat* serves as a personal reflection on how mediation is a form of control over others while still acknoledging its power to unite us together.
+
+For more information, you can [read about the project here](https://personmeetup.ca/portfolio/common-beat/).
 
 ## Install
 
-Download and extract the latest release [here](#).
+Download and extract the latest release [here](https://github.com/PersonMeetup/CommonBeat/releases).
 
 ## Usage
 
